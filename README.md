@@ -13,9 +13,9 @@ This is a simple media player application built with HTML, CSS, and JavaScript. 
 
 ## Setup
 
-The project is deployed using GitHub Pages. You can access it directly via the following link:
+The project is deployed on GitHub Pages. You can access it directly via the following link:
 
-[Media Player on GitHub Pages](https://himanshukhare12.github.io/Media-Player/)
+[Media Player](https://himanshukhare12.github.io/Media-Player/)
 
 Alternatively, you can run it locally:
 
