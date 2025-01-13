@@ -10,6 +10,7 @@ This is a simple media player application built with HTML, CSS, and JavaScript. 
 - Play, pause, stop, and navigate through the video
 - Fullscreen mode
 - Keyboard controls for playback, volume, and navigation
+- Drag and drop video playing
 
 ## Setup
 
@@ -26,10 +27,11 @@ Alternatively, you can run it locally:
 
 1. Open the `index.html` file in your browser.
 2. Use the "Open" button to select a video file from your computer.
-3. Use the playback controls to play, pause, stop, and navigate through the video.
-4. Adjust the playback speed and volume using the respective menu options.
-5. Click the fullscreen button to toggle fullscreen mode.
-6. Use the following keyboard controls:
+3. Drag and drop a video file into the player area to start playing.
+4. Use the playback controls to play, pause, stop, and navigate through the video.
+5. Adjust the playback speed and volume using the respective menu options.
+6. Click the fullscreen button to toggle fullscreen mode.
+7. Use the following keyboard controls:
    - Space: Play/Pause
    - Arrow Up: Volume Up
    - Arrow Down: Volume Down
